@@ -1,5 +1,5 @@
 # Custom-Object-Detection-with-Yolov4
-Custom object detection with yolov4 to detect if a person is wearing face mask or not.
+Custom object detection with yolov4 to detect if a person is wearing face mask or not using Google Colab.
 
 The data for training the custom model was obtained from https://public.roboflow.com/object-detection/mask-wearing/4  
 
